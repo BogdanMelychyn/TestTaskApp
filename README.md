@@ -26,6 +26,6 @@ any order. Command accepts following parameters:
 **`exit`** - serialization and exit from application
 
 
-### Used build tool - Apache Maven
+#### Used build tool - Apache Maven
 
-## To run the program, after cloning or downloading, go to the **TestTaskApp/target/** and use the command **`java -jar TestTaskApp-0.0.1-SNAPSHOT.jar`** in command promt 
+#### To run the program, after cloning or downloading, go to the **TestTaskApp/target/** and use the command **`java -jar TestTaskApp-0.0.1-SNAPSHOT.jar`** in command promt 
